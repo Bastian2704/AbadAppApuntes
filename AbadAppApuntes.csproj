@@ -70,10 +70,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="ASAcercaDe.xaml">
+	  <MauiXaml Update="Views\ASAcercaDe.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="SANotas.xaml">
+	  <MauiXaml Update="Views\SANotas.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
